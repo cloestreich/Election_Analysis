@@ -10,3 +10,9 @@ A Colorado BOE employee has given you the following tasks to complete the electi
 
 Data resources: PyPoll2.py, election_analysis.txt, and election_results.csv
 
+Analysis
+#The purpose of the election analysis audit was to find out who won the election, by how much (percentage-wise), seeing how the 3 counties in question participated.
+
+#Diana DeGette won the election by pretty favorable margin.  Denver had the largest amount of votes of the 3 counties.
+
+#The script in question can be used for any election, however in future elections there may be more counties or candidates involved.  The script would have to be adjusted based on those grounds.
